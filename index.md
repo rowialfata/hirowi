@@ -1,6 +1,6 @@
 # Welcome to Rowi's Reading List
 
-This page contains list of high quality reading material. If you have other good reading material, you can share to me through [**this link.**](https://twitter.com/rowialfata)
+This page contains list of quality reading materials. If you have any suggestion about what else need to be listed, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
 
 
 ### Business
