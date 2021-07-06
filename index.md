@@ -18,6 +18,11 @@ This page contains list of quality reading materials. If you have any suggestion
 4. [Dietary water affects human skin hydration and biomechanics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529263/)
 
 
+## Virtual Reality
+
+1. [Verification of the possibility and effectiveness of experiential learning using HMD-based immersive VR technologies](https://link.springer.com/article/10.1007/s10055-018-0364-1)
+
+
 ### General
 
 1. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
