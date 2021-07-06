@@ -20,7 +20,7 @@ This page contains list of quality reading materials. If you have any suggestion
 
 ## Virtual Reality
 
-1. [Verification of the possibility and effectiveness of experiential learning using HMD-based immersive VR technologies](https://link.springer.com/article/10.1007/s10055-018-0364-1)
+1. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
 
 
 ### General
