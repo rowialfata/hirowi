@@ -15,7 +15,7 @@ This page contains list of quality reading materials. If you have any suggestion
 1. <b> Coffee and Tea </b> <br>
   - [Coffee consumption and risk of type 2 diabetes: a systematic review](https://pubmed.ncbi.nlm.nih.gov/15998896/) <br>
   - [Coffee and tea consumption and the risk of Parkinson's disease](https://pubmed.ncbi.nlm.nih.gov/17712848/) <br>
-  - [Does coffee protect against liver cirrhosis?](https://pubmed.ncbi.nlm.nih.gov/11897178/) </br>
+  - [Does coffee protect against liver cirrhosis?](https://pubmed.ncbi.nlm.nih.gov/11897178/)
 2. [The role of diet in maintaining healthy skin](https://www.researchgate.net/publication/330026831_The_role_of_diet_in_maintaining_healthy_skin)
 3. [Potential health benefits and scientific review of ginger](https://academicjournals.org/journal/JPP/article-full-text-pdf/56E54E164970)
 4. [The Effect of Cold Showering on Health and Work: A Randomized Controlled Trial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5025014/)
