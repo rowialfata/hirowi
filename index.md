@@ -1,4 +1,4 @@
-<h1 style="color:cerulean;"> Welcome to Rowi's Reading List </h1>
+<h1 style="color:#0492c2;"> Welcome to Rowi's Reading List </h1>
 
 This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata) [Last update: 17/07/2021]
 
