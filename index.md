@@ -1,7 +1,6 @@
 <h1> Welcome to Rowi's Reading List </h1>
 
-This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
-<p style="color:purple">[Last update: 17/07/2021]</p>
+This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata) <style="color:grey">[Last update: 17/07/2021]
 
 
 <h2 style="background-color:powderblue;"> > Health </h2>
