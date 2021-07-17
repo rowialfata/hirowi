@@ -1,7 +1,7 @@
 # Welcome to Rowi's Reading List
 
-This page contains list of quality reading materials. If you have any suggestion about other links that have to be listed, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
-
+This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
+<br> [Last update: 17/07/2021] </br>
 
 ### Business
 
@@ -24,7 +24,7 @@ This page contains list of quality reading materials. If you have any suggestion
 6. [Dietary water affects human skin hydration and biomechanics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529263/)
 
 
-## Virtual Reality
+### Virtual Reality
 
 1. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
 
