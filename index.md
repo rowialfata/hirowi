@@ -3,7 +3,7 @@
 This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
 <p style="color:purple">[Last update: 17/07/2021]</p>
 
-<span style="background-color: #FFFF00"> <h2> Business </span> </h2>
+<h3 style="background-color:powderblue;">Business</h3>
 
 1. [Research: The Average Age of a Successful Startup Founder Is 45](https://hbr.org/2018/07/research-the-average-age-of-a-successful-startup-founder-is-45)
 2. [The Startups Most Likely to Succeed Have Technical Founders Who Quickly Hire Businesspeople](https://hbr.org/2017/11/the-startups-most-likely-to-succeed-have-technical-founders-who-quickly-hire-businesspeople)
