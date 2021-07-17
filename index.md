@@ -1,7 +1,7 @@
 # Welcome to Rowi's Reading List
 
 This page contains list of quality reading materials. If you have any suggestion about other worth reading materials, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
-<br> [Last update: 17/07/2021] </br>
+<p style="color:purple">[Last update: 17/07/2021]</p>
 
 ### Business
 
