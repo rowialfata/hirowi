@@ -32,7 +32,7 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 
 <h2 style="background-color:powderblue;"> > Economy </h2>
 
-1. [What Is Purchasing Power Parity (PPP)?)[https://www.investopedia.com/updates/purchasing-power-parity-ppp/]
+1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/)
 
 
 <h2 style="background-color:powderblue;"> > Virtual Reality </h2>
