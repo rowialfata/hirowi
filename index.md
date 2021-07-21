@@ -2,8 +2,6 @@
 
 This page contains list of worth reading materials shared by Rowi. If you have any recommendation, drop me a line through [**Twitter.**](https://twitter.com/rowialfata) [Last update: 17/07/2021]. <br>
 
-Nb: [See list of Rowi's routine and habit here!](https://rowialfata.github.io/habit/)
-
 
 <h2 style="background-color:powderblue;"> > Health </h2>
 
