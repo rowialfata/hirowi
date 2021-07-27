@@ -43,7 +43,8 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 
 <h2 style="background-color:powderblue;"> > Virtual Reality </h2>
 
-1. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
+1. [Columbia University Syllabus; VR and AI - How Disruptive Tech will Transform Media?](https://www0.gsb.columbia.edu/courses/syllabus/Virtual%20Reality%20%26%20Artificial%20Intelligence%3A%20How%20Disruptive%20Technologies%20will%20Transform%20Media.pdf?_ga=2.43543276.812072786.1627373496-2114642757.1627193663)
+2. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
 
 
 
