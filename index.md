@@ -1,6 +1,6 @@
 <h1 style="color:#0492c2;"> Welcome to Rowi's Reading List </h1>
 
-This page contains list of worth reading materials shared by Rowi. If you have any recommendation, drop me a line through [**Twitter.**](https://twitter.com/rowialfata) [Last update: 17/07/2021]. <br>
+This page contains list of worth reading materials shared by Rowi. If you have any recommendation, drop me a line through [**Twitter.**](https://twitter.com/rowialfata)
 
 
 <h2 style="background-color:powderblue;"> > Health </h2>
@@ -46,7 +46,10 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 1. [Columbia University Syllabus; VR and AI - How Disruptive Tech will Transform Media?](https://www0.gsb.columbia.edu/courses/syllabus/Virtual%20Reality%20%26%20Artificial%20Intelligence%3A%20How%20Disruptive%20Technologies%20will%20Transform%20Media.pdf?_ga=2.43543276.812072786.1627373496-2114642757.1627193663)
 2. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
 
+<h2 style="background-color:powderblue;"> > English </h2>
 
+1. [Describing Words](https://describingwords.io/)
+2. [Related Words](https://relatedwords.org/)
 
 <h2 style="background-color:powderblue;"> > General </h2>
 
