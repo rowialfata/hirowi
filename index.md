@@ -24,6 +24,9 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 14. [Physical Exercise as an Effective Antiaging Intervention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5457745/?log$=activity)
 15. [Dietary water affects human skin hydration and biomechanics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4529263/)
 
+<h2 style="background-color:powderblue;"> > Pshycology </h2>
+
+1. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
 
 <h2 style="background-color:powderblue;"> > Business</h2>
 
