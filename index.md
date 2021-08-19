@@ -53,3 +53,4 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 <h2 style="background-color:powderblue;"> > General </h2>
 
 1. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
+2. [How to Work Hard](http://www.paulgraham.com/hwh.html)
