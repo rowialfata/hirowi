@@ -37,11 +37,8 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 
 <h2 style="background-color:powderblue;"> > Economy </h2>
 
-1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/)
-2. [ELI5 Purchasing Power Parity](https://www.reddit.com/r/explainlikeimfive/comments/5c5pay/eli5_what_is_purchasing_power_parity/)
-3. [GDP (PPP) Calculation](https://www.youtube.com/watch?v=g8dSoxmoBsg)
-4. [Gross National Income (GNI)](https://en.m.wikipedia.org/wiki/Gross_national_income)
-5. [ELI5 Difference between GDP and GNI](https://www.reddit.com/r/explainlikeimfive/comments/vqcfw/eli5_what_is_gross_domestic_product_gdp/)
+1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) | [ELI5 Purchasing Power Parity](https://www.reddit.com/r/explainlikeimfive/comments/5c5pay/eli5_what_is_purchasing_power_parity/) | [GDP (PPP) Calculation](https://www.youtube.com/watch?v=g8dSoxmoBsg)
+2. [Gross National Income (GNI)](https://en.m.wikipedia.org/wiki/Gross_national_income) | [ELI5 Difference between GDP and GNI](https://www.reddit.com/r/explainlikeimfive/comments/vqcfw/eli5_what_is_gross_domestic_product_gdp/)
 
 
 <h2 style="background-color:powderblue;"> > Virtual Reality </h2>
