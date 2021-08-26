@@ -26,7 +26,9 @@ This page contains list of worth reading materials shared by Rowi. If you have a
 
 <h2 style="background-color:powderblue;"> > Pshycology </h2>
 
-1. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
+1. [The art of negotiation: Six must-have strategies | London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c&t=1843s)
+2. [The Science of Wellbeing | Yale University](https://coursera.org/share/14bcdf8486cd601635d8201ba1a46be4)
+3. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
 
 <h2 style="background-color:powderblue;"> > Business</h2>
 
