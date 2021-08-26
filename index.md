@@ -37,6 +37,10 @@ This page contains list of quality learning resources. If you have any recommend
 3. [How to Make Wealth](http://www.paulgraham.com/wealth.html)
 
 
+<h2 style="background-color:powderblue;"> > Philosophy </h2>
+
+1. [Philosophy of the Humanities](https://www.youtube.com/playlist?list=PLPeStI124dee1ByfcDzRvPxKDNb0GQjmo)
+
 <h2 style="background-color:powderblue;"> > Economy </h2>
 
 1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) | [ELI5 Purchasing Power Parity](https://www.reddit.com/r/explainlikeimfive/comments/5c5pay/eli5_what_is_purchasing_power_parity/) | [GDP (PPP) Calculation](https://www.youtube.com/watch?v=g8dSoxmoBsg)
