@@ -29,6 +29,7 @@ This page contains list of quality learning resources. If you have any recommend
 1. [The art of negotiation: Six must-have strategies - London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c&t=1843s)
 2. [The Science of Wellbeing - Yale University](https://coursera.org/share/14bcdf8486cd601635d8201ba1a46be4)
 3. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
+4. [Knowing is Half the Bettle](https://www.edge.org/response-detail/25436)
 
 <h2 style="background-color:powderblue;"> > Business</h2>
 
@@ -43,8 +44,8 @@ This page contains list of quality learning resources. If you have any recommend
 
 <h2 style="background-color:powderblue;"> > Economy </h2>
 
-1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) | [ELI5 Purchasing Power Parity](https://www.reddit.com/r/explainlikeimfive/comments/5c5pay/eli5_what_is_purchasing_power_parity/) | [GDP (PPP) Calculation](https://www.youtube.com/watch?v=g8dSoxmoBsg)
-2. [Gross National Income (GNI)](https://en.m.wikipedia.org/wiki/Gross_national_income) | [ELI5 Difference between GDP and GNI](https://www.reddit.com/r/explainlikeimfive/comments/vqcfw/eli5_what_is_gross_domestic_product_gdp/)
+1. [What Is Purchasing Power Parity (PPP)?](https://www.investopedia.com/updates/purchasing-power-parity-ppp/) | [ELI5 Purchasing Power Parity](https://www.reddit.com/r/explainlikeimfive/comments/5c5pay/eli5_what_is_purchasing_power_parity/) - [GDP (PPP) Calculation](https://www.youtube.com/watch?v=g8dSoxmoBsg)
+2. [Gross National Income (GNI)](https://en.m.wikipedia.org/wiki/Gross_national_income) - [ELI5 Difference between GDP and GNI](https://www.reddit.com/r/explainlikeimfive/comments/vqcfw/eli5_what_is_gross_domestic_product_gdp/)
 
 
 <h2 style="background-color:powderblue;"> > Virtual Reality </h2>
