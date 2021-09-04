@@ -26,10 +26,11 @@ This page contains list of quality learning resources. If you have any recommend
 
 <h2 style="background-color:powderblue;"> > Pshycology </h2>
 
-1. [The art of negotiation: Six must-have strategies - London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c&t=1843s)
-2. [The Science of Wellbeing - Yale University](https://coursera.org/share/14bcdf8486cd601635d8201ba1a46be4)
-3. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
-4. [Knowing is Half the Bettle](https://www.edge.org/response-detail/25436)
+1. [Neural Markers of Religious Conviction](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2009.02305.x)
+2. [The art of negotiation: Six must-have strategies - London Business School](https://www.youtube.com/watch?v=uKbcmlKb81c&t=1843s)
+3. [The Science of Wellbeing - Yale University](https://coursera.org/share/14bcdf8486cd601635d8201ba1a46be4)
+4. [G.I. Joe Phenomena: Understanding the Limits of Metacognitive Awareness on Debiasing](https://www.hbs.edu/ris/Publication%20Files/21-084_436ebba8-c832-4922-bb6e-49d000a77df3.pdf)
+5. [Knowing is Half the Bettle](https://www.edge.org/response-detail/25436)
 
 <h2 style="background-color:powderblue;"> > Business</h2>
 
