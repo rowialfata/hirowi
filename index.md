@@ -51,9 +51,10 @@ This page contains list of quality learning resources. If you have any recommend
 
 <h2 style="background-color:powderblue;"> > Virtual Reality </h2>
 
-1. [VR Health Applications](https://www.appliedvr.io/wp-content/uploads/2020/02/AppliedVR-White-Paper-191105.pdf)
-2. [Columbia University Syllabus; VR and AI - How Disruptive Tech will Transform Media?](https://www0.gsb.columbia.edu/courses/syllabus/Virtual%20Reality%20%26%20Artificial%20Intelligence%3A%20How%20Disruptive%20Technologies%20will%20Transform%20Media.pdf?_ga=2.43543276.812072786.1627373496-2114642757.1627193663)
-3. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
+1. [Goldman Sachs' 2016 Report: AR/VR](https://www.goldmansachs.com/insights/pages/technology-driving-innovation-folder/virtual-and-augmented-reality/report.pdf)
+2. [VR Health Applications](https://www.appliedvr.io/wp-content/uploads/2020/02/AppliedVR-White-Paper-191105.pdf)
+3. [Columbia University Syllabus; VR and AI - How Disruptive Tech will Transform Media?](https://www0.gsb.columbia.edu/courses/syllabus/Virtual%20Reality%20%26%20Artificial%20Intelligence%3A%20How%20Disruptive%20Technologies%20will%20Transform%20Media.pdf?_ga=2.43543276.812072786.1627373496-2114642757.1627193663)
+4. [The Past, Present, and Future of Virtual and Augmented Reality Research: A Network and Cluster Analysis of the Literature](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02086/full)
 
 
 <h2 style="background-color:powderblue;"> > General </h2>
