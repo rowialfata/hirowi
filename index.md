@@ -59,5 +59,6 @@ This page contains list of quality learning resources. If you have any recommend
 
 <h2 style="background-color:powderblue;"> > General </h2>
 
-1. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
-2. [How to Work Hard](http://www.paulgraham.com/hwh.html)
+1. [First Principles: The Building Blocks of True Knowledge](https://fs.blog/first-principles/)
+2. [How To Be Successful](https://blog.samaltman.com/how-to-be-successful)
+3. [How to Work Hard](http://www.paulgraham.com/hwh.html)
